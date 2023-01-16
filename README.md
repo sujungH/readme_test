@@ -2,7 +2,8 @@
 
 # 🖥️ AI_Lab 🖥️  
 ## About
-### 
+### Introduction
+-
 
 
 ## Members
@@ -26,14 +27,16 @@
 ### Ch.Y(Alu)
 - E-mail : ycy526@hknu.ac.kr
 
+
 ## Research
-###
+###Fields
+- 
 
 
 ## Publication
-###
+-
 
 
 
 ## Contact
-### 
+-
